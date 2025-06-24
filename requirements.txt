@@ -1,0 +1,7 @@
+streamlit
+sqlite3
+openai
+scikit-learn
+nltk
+langchain
+tiktoken
